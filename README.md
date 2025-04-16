@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m interested in Data scientist_MachineLearning_DeepLearning_NLP_TimeSeriesforecasting<br>- 🌱 I’m currently researcher in Electrical Engineering_Power system & Renewable Energy .<br>- 💞️ I’m looking to collaborate on optimal control and energy management based on deep reinforcement learning</p>
+<p align="left">I’m a Data scientist & Machine Learning engineer<br>- 🌱 I’m currently researcher in Electrical Engineering_Power system & Renewable Energy .<br>- 💞️ I’m looking to collaborate on optimal control and energy management based on deep reinforcement learning</p>
 
 ###
 
