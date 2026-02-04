@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m a Data scientist & Machine Learning engineer<br>- 💞️ I am working on creating end to end production machine learning projects.</p>- 🌱 I’m currently researcher in Electrical Engineering_Power system & Renewable Energy. 
+<p align="left">I’m a Data scientist & Machine Learning engineer<br>-  💞️ I'm working on creating end to end production machine learning projects.</p>- 🌱 I’m currently researcher in Electrical Engineering_Power system & Renewable Energy. 
 
 ###
 
